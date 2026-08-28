@@ -1,0 +1,122 @@
+[
+  {
+    "round": 1,
+    "attack_success_rate": 1.0,
+    "mean_risk": 0.241,
+    "survivors": [
+      "g_d5078b03",
+      "g_feedf095",
+      "g_cea6f3aa",
+      "g_9349a7a2",
+      "g_22ce7a72",
+      "g_970cb1ba",
+      "g_35c5061d",
+      "g_1a233ddf",
+      "g_c8a87659",
+      "g_2586d5ae",
+      "g_89de4bf0",
+      "g_b65afeea",
+      "g_9508ae61",
+      "g_a41d60de",
+      "g_37f43494",
+      "g_60a95c8a"
+    ],
+    "metric_status": "demo heuristic - validate with held-out blue-model scoring"
+  },
+  {
+    "round": 2,
+    "attack_success_rate": 0.83,
+    "mean_risk": 0.213,
+    "survivors": [
+      "g_49174849",
+      "g_d145702e",
+      "g_9fadd745",
+      "g_cc881985",
+      "g_cd2f09a5",
+      "g_71755262",
+      "g_b7771780",
+      "g_f86eb4a8",
+      "g_51068a8f",
+      "g_16345ebc",
+      "g_962eda50",
+      "g_15b17278",
+      "g_5bf0f555",
+      "g_912ebdea",
+      "g_e76da8a4",
+      "g_652ec309"
+    ],
+    "metric_status": "demo heuristic - validate with held-out blue-model scoring"
+  },
+  {
+    "round": 3,
+    "attack_success_rate": 0.66,
+    "mean_risk": 0.214,
+    "survivors": [
+      "g_6d267e33",
+      "g_3e26ff25",
+      "g_1e48039f",
+      "g_ab1ee217",
+      "g_fc73cd43",
+      "g_2af5fd75",
+      "g_ca6f5341",
+      "g_e17f9f11",
+      "g_0c145fc1",
+      "g_4f21ac65",
+      "g_ddc9051d",
+      "g_1719cd09",
+      "g_ae40e096",
+      "g_115c4a6e",
+      "g_5cd9a558",
+      "g_27c7f666"
+    ],
+    "metric_status": "demo heuristic - validate with held-out blue-model scoring"
+  },
+  {
+    "round": 4,
+    "attack_success_rate": 0.49,
+    "mean_risk": 0.245,
+    "survivors": [
+      "g_b6793aa0",
+      "g_0d942d00",
+      "g_f60f77cb",
+      "g_220de339",
+      "g_eeced8bd",
+      "g_2d07efb2",
+      "g_a8e9c8ab",
+      "g_79266bec",
+      "g_9f66b1eb",
+      "g_7fa01a08",
+      "g_b3e60102",
+      "g_b26533f8",
+      "g_6de440fa",
+      "g_3f806c43",
+      "g_614b4f48",
+      "g_579a95cd"
+    ],
+    "metric_status": "demo heuristic - validate with held-out blue-model scoring"
+  },
+  {
+    "round": 5,
+    "attack_success_rate": 0.32,
+    "mean_risk": 0.237,
+    "survivors": [
+      "g_239b4767",
+      "g_aa2e0096",
+      "g_a3bbd3f6",
+      "g_82170c26",
+      "g_fe65f6b2",
+      "g_e63d7d83",
+      "g_e50185d0",
+      "g_8c8da99c",
+      "g_222cae9d",
+      "g_e0bb1ed6",
+      "g_43361263",
+      "g_6340b243",
+      "g_cf5b464c",
+      "g_4269fa27",
+      "g_ec0487ea",
+      "g_8b016990"
+    ],
+    "metric_status": "demo heuristic - validate with held-out blue-model scoring"
+  }
+]

@@ -1,0 +1,25 @@
+id: "GPF-E02"
+name: "False repudiation"
+kill_chain:
+  - "access"
+  - "manipulate"
+  - "payment"
+  - "cash_out"
+channel: "card_ecom"
+rail: "card"
+genai_capability: "agent manipulation"
+preconditions: "synthetic test environment only"
+observable_signals:
+  - "behavioural deviation"
+  - "beneficiary novelty"
+  - "velocity or provenance anomaly"
+simulator: "metadata-only injector"
+defense_hooks:
+  - "semantic"
+  - "provenance"
+  - "temporal"
+  - "economic"
+  - "structural"
+severity: "high"
+feasibility_today: true
+tier: "agentic"

@@ -1,0 +1,37 @@
+{
+  "events": 5000,
+  "fraud_rate": 0.006,
+  "amount": {
+    "median_minor": 56494,
+    "mean_minor": 147582.66,
+    "log_std": 1.155
+  },
+  "hour_histogram": [
+    205,
+    184,
+    183,
+    198,
+    196,
+    203,
+    222,
+    216,
+    209,
+    229,
+    226,
+    214,
+    216,
+    218,
+    196,
+    206,
+    202,
+    198,
+    217,
+    213,
+    215,
+    210,
+    213,
+    211
+  ],
+  "protocol_conformance_legit": 1.0,
+  "status": "self-consistency only - calibrate KS, discriminator AUC, and TSTR against approved public reference data before reporting fidelity claims"
+}

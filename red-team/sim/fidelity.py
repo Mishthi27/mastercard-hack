@@ -1,0 +1,5 @@
+from __future__ import annotations
+import math
+def summary(events):
+ amounts=[e['txn']['amount_minor'] for e in events]; hours=[e['txn']['hour_local'] for e in events]; fraud=sum(e['label']['is_fraud'] for e in events)
+ return {"events":len(events),"fraud_rate":fraud/max(1,len(events)),"amount":{"median_minor":sorted(amounts)[len(amounts)//2],"mean_minor":round(sum(amounts)/len(amounts),2),"log_std":round((sum((math.log(max(x,1))-sum(math.log(max(y,1)) for y in amounts)/len(amounts))**2 for x in amounts)/len(amounts))**.5,3)},"hour_histogram":[hours.count(h) for h in range(24)],"protocol_conformance_legit":round(sum((not e['label']['is_fraud']) and (not e['mandate_chain'] or (e['mandate_chain']['cart']['signature_valid'] and e['mandate_chain']['payment']['hash_matches_cart'])) for e in events)/max(1,sum(not e['label']['is_fraud'] for e in events)),4),"status":"self-consistency only - calibrate KS, discriminator AUC, and TSTR against approved public reference data before reporting fidelity claims"}

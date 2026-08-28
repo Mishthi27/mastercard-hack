@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "GPF-A01",
+    "name": "Playback mismatch",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-A02",
+    "name": "Over-broad shopping mandate",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-A03",
+    "name": "TTL dormancy",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-A04",
+    "name": "Budget-boundary steering",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-B01",
+    "name": "Invisible-text prompt injection",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-B02",
+    "name": "Unregistered merchant endpoint",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-B03",
+    "name": "Search-result poisoning",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-B04",
+    "name": "Price inflation",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-B05",
+    "name": "Product substitution",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-C01",
+    "name": "Mandate replay",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-C02",
+    "name": "Presence-flag falsification",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-C03",
+    "name": "Intent reuse",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-C04",
+    "name": "Cart-hash decoupling",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-C05",
+    "name": "Multi-merchant fan-out",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-D01",
+    "name": "Delegation hijack",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-D02",
+    "name": "Sub-agent impersonation",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-D03",
+    "name": "Agent credential stuffing",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-D04",
+    "name": "Tool-routing manipulation",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "agentic_checkout",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-D05",
+    "name": "Card testing via agent",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-E01",
+    "name": "Synthetic identity onboarding",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-E02",
+    "name": "False repudiation",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-E03",
+    "name": "Account takeover",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-E04",
+    "name": "Bust-out spending",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-E05",
+    "name": "Device-farm velocity",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-U01",
+    "name": "Disguised collect request",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "upi_collect",
+    "rail": "upi",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-U02",
+    "name": "QR substitution",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "upi_p2p",
+    "rail": "upi",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-U03",
+    "name": "Mule beneficiary rotation",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "upi_p2p",
+    "rail": "upi",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-U04",
+    "name": "Social-engineered APP fraud",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "upi_p2p",
+    "rail": "upi",
+    "genai_capability": "agent manipulation",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "high",
+    "feasibility_today": true,
+    "tier": "agentic"
+  },
+  {
+    "id": "GPF-S01",
+    "name": "Synthetic-voice APP pretext",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "upi_p2p",
+    "rail": "upi",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-S02",
+    "name": "Deepfake KYC pressure",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-S03",
+    "name": "Invoice redirection",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "wire",
+    "rail": "wire",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-S04",
+    "name": "Business-email payment diversion",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "wire",
+    "rail": "wire",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X01",
+    "name": "Cross-rail laundering",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "wire",
+    "rail": "wire",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X02",
+    "name": "Refund abuse",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X03",
+    "name": "Friendly fraud ring",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X04",
+    "name": "Merchant collusion",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X05",
+    "name": "Credential resale",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X06",
+    "name": "SIM-swap assisted transfer",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "upi_p2p",
+    "rail": "upi",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X07",
+    "name": "Remote-access payment coercion",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "upi_p2p",
+    "rail": "upi",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X08",
+    "name": "Cash-out cascade",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "upi_p2p",
+    "rail": "upi",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X09",
+    "name": "Micro-transaction laundering",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X10",
+    "name": "Beneficiary account takeover",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "upi_p2p",
+    "rail": "upi",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X11",
+    "name": "Merchant account takeover",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X12",
+    "name": "Promo-code abuse automation",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X13",
+    "name": "Chargeback cycling",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X14",
+    "name": "Cross-border anomaly",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X15",
+    "name": "Settlement-account change",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "wire",
+    "rail": "wire",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X16",
+    "name": "Loyalty-points takeover",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X17",
+    "name": "Installment-plan manipulation",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "card_ecom",
+    "rail": "card",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  },
+  {
+    "id": "GPF-X18",
+    "name": "Trusted-device abuse",
+    "kill_chain": [
+      "access",
+      "manipulate",
+      "payment",
+      "cash_out"
+    ],
+    "channel": "upi_p2p",
+    "rail": "upi",
+    "genai_capability": "content or automation assistance",
+    "preconditions": "synthetic test environment only",
+    "observable_signals": [
+      "behavioural deviation",
+      "beneficiary novelty",
+      "velocity or provenance anomaly"
+    ],
+    "simulator": "metadata-only injector",
+    "defense_hooks": [
+      "semantic",
+      "provenance",
+      "temporal",
+      "economic",
+      "structural"
+    ],
+    "severity": "medium",
+    "feasibility_today": true,
+    "tier": "classic"
+  }
+]
