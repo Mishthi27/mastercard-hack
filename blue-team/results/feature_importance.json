@@ -1,0 +1,22 @@
+[
+  {
+    "feature": "semantic",
+    "importance": 0.4
+  },
+  {
+    "feature": "provenance",
+    "importance": 0.3
+  },
+  {
+    "feature": "structural",
+    "importance": 0.1
+  },
+  {
+    "feature": "economic",
+    "importance": 0.1
+  },
+  {
+    "feature": "temporal",
+    "importance": 0.1
+  }
+]

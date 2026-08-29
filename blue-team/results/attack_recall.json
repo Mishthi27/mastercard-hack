@@ -1,0 +1,100 @@
+[
+  {
+    "attack_id": "GPF-C02",
+    "count": 2,
+    "fraud_count": 2,
+    "detected_count": 2,
+    "recall": 1.0
+  },
+  {
+    "attack_id": "GPF-C04",
+    "count": 2,
+    "fraud_count": 2,
+    "detected_count": 2,
+    "recall": 1.0
+  },
+  {
+    "attack_id": "GPF-B04",
+    "count": 3,
+    "fraud_count": 3,
+    "detected_count": 3,
+    "recall": 1.0
+  },
+  {
+    "attack_id": "GPF-A01",
+    "count": 2,
+    "fraud_count": 2,
+    "detected_count": 2,
+    "recall": 1.0
+  },
+  {
+    "attack_id": "GPF-S01",
+    "count": 2,
+    "fraud_count": 2,
+    "detected_count": 2,
+    "recall": 1.0
+  },
+  {
+    "attack_id": "GPF-D05",
+    "count": 2,
+    "fraud_count": 2,
+    "detected_count": 2,
+    "recall": 1.0
+  },
+  {
+    "attack_id": "GPF-B01",
+    "count": 3,
+    "fraud_count": 3,
+    "detected_count": 3,
+    "recall": 1.0
+  },
+  {
+    "attack_id": "GPF-B02",
+    "count": 2,
+    "fraud_count": 2,
+    "detected_count": 2,
+    "recall": 1.0
+  },
+  {
+    "attack_id": "GPF-U01",
+    "count": 2,
+    "fraud_count": 2,
+    "detected_count": 2,
+    "recall": 1.0
+  },
+  {
+    "attack_id": "GPF-E02",
+    "count": 2,
+    "fraud_count": 2,
+    "detected_count": 2,
+    "recall": 1.0
+  },
+  {
+    "attack_id": "GPF-A03",
+    "count": 2,
+    "fraud_count": 2,
+    "detected_count": 2,
+    "recall": 1.0
+  },
+  {
+    "attack_id": "GPF-C05",
+    "count": 2,
+    "fraud_count": 2,
+    "detected_count": 2,
+    "recall": 1.0
+  },
+  {
+    "attack_id": "GPF-D01",
+    "count": 2,
+    "fraud_count": 2,
+    "detected_count": 2,
+    "recall": 1.0
+  },
+  {
+    "attack_id": "GPF-D02",
+    "count": 2,
+    "fraud_count": 2,
+    "detected_count": 2,
+    "recall": 1.0
+  }
+]

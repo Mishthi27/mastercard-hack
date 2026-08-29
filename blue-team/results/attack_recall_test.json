@@ -1,0 +1,128 @@
+[
+  {
+    "attack_id": "GPF-C02",
+    "total_examples": 2,
+    "fraud_examples": 2,
+    "detected_examples": 2,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  },
+  {
+    "attack_id": "GPF-C04",
+    "total_examples": 2,
+    "fraud_examples": 2,
+    "detected_examples": 2,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  },
+  {
+    "attack_id": "GPF-B04",
+    "total_examples": 3,
+    "fraud_examples": 3,
+    "detected_examples": 3,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  },
+  {
+    "attack_id": "GPF-A01",
+    "total_examples": 2,
+    "fraud_examples": 2,
+    "detected_examples": 2,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  },
+  {
+    "attack_id": "GPF-S01",
+    "total_examples": 2,
+    "fraud_examples": 2,
+    "detected_examples": 2,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  },
+  {
+    "attack_id": "GPF-D05",
+    "total_examples": 2,
+    "fraud_examples": 2,
+    "detected_examples": 2,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  },
+  {
+    "attack_id": "GPF-B01",
+    "total_examples": 3,
+    "fraud_examples": 3,
+    "detected_examples": 3,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  },
+  {
+    "attack_id": "GPF-B02",
+    "total_examples": 2,
+    "fraud_examples": 2,
+    "detected_examples": 2,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  },
+  {
+    "attack_id": "GPF-U01",
+    "total_examples": 2,
+    "fraud_examples": 2,
+    "detected_examples": 2,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  },
+  {
+    "attack_id": "GPF-E02",
+    "total_examples": 2,
+    "fraud_examples": 2,
+    "detected_examples": 2,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  },
+  {
+    "attack_id": "GPF-A03",
+    "total_examples": 2,
+    "fraud_examples": 2,
+    "detected_examples": 2,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  },
+  {
+    "attack_id": "GPF-C05",
+    "total_examples": 2,
+    "fraud_examples": 2,
+    "detected_examples": 2,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  },
+  {
+    "attack_id": "GPF-D01",
+    "total_examples": 2,
+    "fraud_examples": 2,
+    "detected_examples": 2,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  },
+  {
+    "attack_id": "GPF-D02",
+    "total_examples": 2,
+    "fraud_examples": 2,
+    "detected_examples": 2,
+    "missed_examples": 0,
+    "recall": 1.0,
+    "status": "Insufficient samples"
+  }
+]
