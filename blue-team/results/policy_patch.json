@@ -1,0 +1,9 @@
+{
+  "new_rules": [
+    {
+      "condition": "intent_cart_semantic_drift > 0.8",
+      "action": "BLOCK"
+    }
+  ],
+  "survivors_analyzed": 0
+}

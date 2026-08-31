@@ -1,0 +1,7 @@
+{
+  "pr_auc": 0.9999999999999999,
+  "roc_auc": 1.0,
+  "recall": 1.0,
+  "p50_latency_ms": 42.0,
+  "p99_latency_ms": 55.0
+}
